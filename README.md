@@ -132,105 +132,85 @@ Building intelligent automation tools that streamline workflows and boost produc
 
 <div align="center">
 
-### 🌟 Flagship Project
-
 <table>
   <tr>
-    <td align="center" style="border: 2px solid #3DAFF7; border-radius: 10px; padding: 20px;">
+    <td width="50%" align="center">
+      <br/>
       <a href="https://kinetic-three-mu.vercel.app/" target="_blank">
-        <img src="https://vercel.com/api/v0/deployments/dpl_GFL8M8cNpjkrRiiR3TU2iH7zYH59/favicon?project=kinetic&readyState=READY&teamId=team_NfvjqLrNBrVemJBh0c8YyK80&dpl=dpl_97xRpi2juduZFwmX5j2aioSxMtVe" width="80"/>
+        <img src="https://vercel.com/api/v0/deployments/dpl_GFL8M8cNpjkrRiiR3TU2iH7zYH59/favicon?project=kinetic&readyState=READY&teamId=team_NfvjqLrNBrVemJBh0c8YyK80&dpl=dpl_97xRpi2juduZFwmX5j2aioSxMtVe" width="60"/>
       </a>
-      <h2>⚡ Kinetic</h2>
-      <p align="center">
-        <img src="https://img.shields.io/badge/⭐_Featured-FF5722?style=for-the-badge" />
-        <img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge" />
-      </p>
-      <p><strong><em>A cutting-edge modern web application showcasing advanced React patterns, TypeScript best practices, and stunning UI/UX design</em></strong></p>
+      <h3>Kinetic</h3>
+      <p><em>Modern web application with cutting-edge features</em></p>
       <br/>
-      <p align="left">
-        <strong>✨ Key Features:</strong><br/>
-        • Responsive design with seamless animations<br/>
-        • Advanced state management & API integration<br/>
-        • Performance-optimized with modern tooling<br/>
-        • Clean, maintainable TypeScript codebase
-      </p>
-      <br/>
-      <p align="center">
-        <a href="https://kinetic-three-mu.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-3DAFF7?style=for-the-badge&logoColor=white" alt="Live Demo" height="35"/>
-        </a>
-        <a href="https://github.com/kinetic-sudo/kinetic" target="_blank">
-          <img src="https://img.shields.io/badge/📂_VIEW_CODE-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="View Code" height="35"/>
-        </a>
-      </p>
-      <br/>
-      <p align="center">
-        <strong>Tech Stack:</strong><br/><br/>
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-      </p>
+      <a href="https://kinetic-three-mu.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/🚀_Live_Demo-3DAFF7?style=for-the-badge&logoColor=white" alt="Live Demo"/>
+      </a>
+      <a href="https://github.com/kinetic-sudo/kinetic" target="_blank">
+        <img src="https://img.shields.io/badge/💻_View_Code-0D1117?style=for-the-badge&logoColor=white" alt="View Code"/>
+      </a>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
     </td>
-  </tr>
-</table>
-
-<br/>
-
-### 📱 Other Projects
-
-<table>
-  <tr>
-    <td width="33%" align="center">
+    <td width="50%" align="center">
+      <br/>
       <a href="https://brainwave-nu-lac.vercel.app/" target="_blank">
-        <img src="https://vercel.com/api/v0/deployments/dpl_8dT3n1dZWAna65GqBbVwQnrnH9xu/favicon?project=brainwave&readyState=READY&teamId=team_NfvjqLrNBrVemJBh0c8YyK80&dpl=dpl_97xRpi2juduZFwmX5j2aioSxMtVe" width="50"/>
+        <img src="https://vercel.com/api/v0/deployments/dpl_8dT3n1dZWAna65GqBbVwQnrnH9xu/favicon?project=brainwave&readyState=READY&teamId=team_NfvjqLrNBrVemJBh0c8YyK80&dpl=dpl_97xRpi2juduZFwmX5j2aioSxMtVe" width="60"/>
       </a>
       <h3>Brainwave</h3>
       <p><em>AI-powered intelligent platform</em></p>
       <br/>
       <a href="https://brainwave-nu-lac.vercel.app/" target="_blank">
-        <img src="https://img.shields.io/badge/🌐_Demo-3DAFF7?style=for-the-badge" alt="Demo"/>
+        <img src="https://img.shields.io/badge/🚀_Live_Demo-3DAFF7?style=for-the-badge&logoColor=white" alt="Live Demo"/>
       </a>
       <a href="https://github.com/kinetic-sudo/Brainwave" target="_blank">
-        <img src="https://img.shields.io/badge/💻_Code-0D1117?style=for-the-badge" alt="Code"/>
+        <img src="https://img.shields.io/badge/💻_View_Code-0D1117?style=for-the-badge&logoColor=white" alt="View Code"/>
       </a>
       <br/><br/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
     </td>
-    <td width="33%" align="center">
-      <a href="https://apple-website-mocha-nine.vercel.app/" target="_blank">
-        <img src="https://vercel.com/api/v0/deployments/dpl_8nGxTNaAz87VjbBCnZziTfnWw8VH/favicon?project=apple-website&readyState=READY&teamId=team_NfvjqLrNBrVemJBh0c8YyK80&dpl=dpl_97xRpi2juduZFwmX5j2aioSxMtVe" width="50"/>
-      </a>
-      <h3>Apple Clone</h3>
-      <p><em>3D animations & interactions</em></p>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
       <br/>
       <a href="https://apple-website-mocha-nine.vercel.app/" target="_blank">
-        <img src="https://img.shields.io/badge/🌐_Demo-3DAFF7?style=for-the-badge" alt="Demo"/>
+        <img src="https://vercel.com/api/v0/deployments/dpl_8nGxTNaAz87VjbBCnZziTfnWw8VH/favicon?project=apple-website&readyState=READY&teamId=team_NfvjqLrNBrVemJBh0c8YyK80&dpl=dpl_97xRpi2juduZFwmX5j2aioSxMtVe" width="60"/>
+      </a>
+      <h3>Apple Website Clone</h3>
+      <p><em>Pixel-perfect recreation with 3D animations</em></p>
+      <br/>
+      <a href="https://apple-website-mocha-nine.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/🚀_Live_Demo-3DAFF7?style=for-the-badge&logoColor=white" alt="Live Demo"/>
       </a>
       <a href="https://github.com/kinetic-sudo/apple_website" target="_blank">
-        <img src="https://img.shields.io/badge/💻_Code-0D1117?style=for-the-badge" alt="Code"/>
+        <img src="https://img.shields.io/badge/💻_View_Code-0D1117?style=for-the-badge&logoColor=white" alt="View Code"/>
       </a>
       <br/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white" />
       <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" />
     </td>
-    <td width="33%" align="center">
-      <a href="https://gta-vi-tau.vercel.app/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Rockstar_logo_for_tweets.png/1920px-Rockstar_logo_for_tweets.png" width="50"/>
-      </a>
-      <h3>GTA-VI Landing</h3>
-      <p><em>Immersive gaming experience</em></p>
+    <td width="50%" align="center">
       <br/>
       <a href="https://gta-vi-tau.vercel.app/" target="_blank">
-        <img src="https://img.shields.io/badge/🌐_Demo-3DAFF7?style=for-the-badge" alt="Demo"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Rockstar_logo_for_tweets.png/1920px-Rockstar_logo_for_tweets.png" width="60"/>
+      </a>
+      <h3>GTA-VI Landing</h3>
+      <p><em>Immersive game landing page experience</em></p>
+      <br/>
+      <a href="https://gta-vi-tau.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/🚀_Live_Demo-3DAFF7?style=for-the-badge&logoColor=white" alt="Live Demo"/>
       </a>
       <a href="https://github.com/kinetic-sudo/Gta-vi" target="_blank">
-        <img src="https://img.shields.io/badge/💻_Code-0D1117?style=for-the-badge" alt="Code"/>
+        <img src="https://img.shields.io/badge/💻_View_Code-0D1117?style=for-the-badge&logoColor=white" alt="View Code"/>
       </a>
       <br/><br/>
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white" />
+      <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
     </td>
   </tr>
 </table>
