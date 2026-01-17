@@ -84,7 +84,7 @@ const pratyush = {
 
 <div align="center">
 
-[![Kinetic](https://github-readme-stats.vercel.app/api/pin/?username=kinetic-sudo&repo=kinetic&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3DAFF7&icon_color=3DAFF7&text_color=FFFFFF)](https://github.com/kinetic-sudo/kinetic)
+[![Kinetic](https://github-readme-stats.vercel.app/api/pin/?username=kinetic-sudo&repo=kinetic&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3DAFF7&icon_color=3DAFF7&text_color=FFFFFF)]([https://github.com/kinetic-sudo/kinetic](https://vercel.com/api/v0/deployments/dpl_GFL8M8cNpjkrRiiR3TU2iH7zYH59/favicon?project=kinetic&readyState=READY&teamId=team_NfvjqLrNBrVemJBh0c8YyK80&dpl=dpl_97xRpi2juduZFwmX5j2aioSxMtVe))
 [![Brainwave](https://github-readme-stats.vercel.app/api/pin/?username=kinetic-sudo&repo=Brainwave&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3DAFF7&icon_color=3DAFF7&text_color=FFFFFF)](https://github.com/kinetic-sudo/Brainwave)
 [![Apple Website](https://github-readme-stats.vercel.app/api/pin/?username=kinetic-sudo&repo=apple_website&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3DAFF7&icon_color=3DAFF7&text_color=FFFFFF)](https://github.com/kinetic-sudo/apple_website)
 [![GTA-VI](https://github-readme-stats.vercel.app/api/pin/?username=kinetic-sudo&repo=Gta-vi&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3DAFF7&icon_color=3DAFF7&text_color=FFFFFF)](https://github.com/kinetic-sudo/Gta-vi)
