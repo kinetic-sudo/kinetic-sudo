@@ -8,53 +8,26 @@
 
 <br/>
 
-## 🧑‍💻 About Me
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24px"/> About Me
 
-<div align="center">
-
-<table border="0" width="100%">
-  <tr>
-    <td width="55%" valign="top">
-
-### 👨‍🎓 Who I Am
-> **Full Stack Software Engineer** based in **Lucknow, India**.
-
-I build robust, scalable systems that solve real-world problems, specializing in automation tools and enduring architectures.
-
-<br/>
-
-### 🎯 What Drives Me
-<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-automation-industry-40-flaticons-flat-flat-icons.png" width="20"/> &nbsp; **Intelligent Automation** <br/>
-<img src="https://img.icons8.com/color/48/system-task.png" width="20"/> &nbsp; **Scalable Architecture** <br/>
-<img src="https://img.icons8.com/color/48/workflow.png" width="20"/> &nbsp; **Efficient Workflows** <br/>
-<img src="https://img.icons8.com/color/48/brain--v1.png" width="20"/> &nbsp; **Complex Problem Solving**
-
-    </td>
-    <td width="45%" valign="top">
-
-### 🚀 Focus & Work
-<img src="https://img.icons8.com/dusk/64/code.png" width="20"/> &nbsp; **System Design & Automation**
-<br/>
-<em>Building tools that streamline workflows and boost productivity.</em>
+```javascript
+const pratyush = {
+    role: "Full Stack Software Engineer",
+    location: "Lucknow, India",
+    passions: [
+        "Building automation systems",
+        "Designing scalable architectures",
+        "Creating efficient workflows",
+        "Solving complex problems"
+    ],
+    currentFocus: "System Design & Automation",
+    workingOn: "Building intelligent automation tools",
+    learning: ["Microservices", "Cloud Architecture", "DevOps"],
+    askMeAbout: ["Web Development", "System Design", "Automation", "APIs"]
+};
+```
 
 <br/>
-
-### 📚 Learning Journey
-<img src="https://img.shields.io/badge/Architecture-Microservices-blue?style=flat-square&logo=microgen&logoColor=white" />
-<img src="https://img.shields.io/badge/Cloud-AWS_&_GCP-orange?style=flat-square&logo=googlecloud&logoColor=white" />
-<img src="https://img.shields.io/badge/DevOps-Advanced_Practices-black?style=flat-square&logo=githubactions&logoColor=white" />
-
-<br/>
-
-### 💬 Ask Me About
-<img src="https://img.shields.io/badge/Web-Full_Stack-violet?style=flat-square&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/Design-System_Architecture-red?style=flat-square&logo=diagramsdotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/Scripting-Automation-green?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/API-REST_&_GraphQL-blue?style=flat-square&logo=postman&logoColor=white" />
-
-    </td>
-  </tr>
-</table>
 
 </div>
 
