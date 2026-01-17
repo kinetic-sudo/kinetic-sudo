@@ -52,15 +52,7 @@
   <img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis,mysql,prisma" />
 </p>
 
-### DevOps & Cloud
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,jenkins,git" />
-</p>
 
-### Design & Automation
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,postman,selenium" />
-</p>
 
 <br/>
 
@@ -145,12 +137,5 @@
     </td>
   </tr>
 </table>
-
-<br/>
-<br/>
-
-
-
-![Visitor Count](https://profile-counter.glitch.me/kinetic-sudo/count.svg)
 
 </div>
