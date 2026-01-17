@@ -35,7 +35,7 @@ const pratyush = {
 
 <br/>
 
-## <img src="https://img.icons8.com/3d-fluency/94/rocket.png" width="35"/> Tech Stack
+## <img src="https://www.freepik.com/icon/layers_13007410#fromView=search&page=1&position=7&uuid=16bf9f20-0111-45ed-a7af-64b611fba6f1" width="35"/> Tech Stack
 
 ### Languages
 <p align="left">
