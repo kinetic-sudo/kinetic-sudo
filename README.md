@@ -80,7 +80,7 @@ const pratyush = {
 
 <br/>
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30px"/> Featured Projects
+## <img src="https://cdn-icons-png.freepik.com/512/2920/2920322.png?ga=GA1.1.375737319.1725045170" width="30px"/> Featured Projects
 
 <div align="center">
 
