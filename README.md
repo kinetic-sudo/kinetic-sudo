@@ -11,67 +11,52 @@
 ## 🧑‍💻 About Me
 
 <div align="center">
-  
-<table border="0">
+
+<table border="0" width="100%">
   <tr>
-    <td width="50%" valign="top">
-      
+    <td width="55%" valign="top">
+
 ### 👨‍🎓 Who I Am
+> **Full Stack Software Engineer** based in **Lucknow, India**.
 
-<img src="https://img.icons8.com/3d-fluency/94/code.png" width="50" align="right"/>
-
-I'm a **Full Stack Software Engineer** based in **Lucknow, India**, passionate about building robust, scalable systems that solve real-world problems. I specialize in creating automation tools and designing architectures that stand the test of time.
+I build robust, scalable systems that solve real-world problems, specializing in automation tools and enduring architectures.
 
 <br/>
 
 ### 🎯 What Drives Me
+<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-automation-industry-40-flaticons-flat-flat-icons.png" width="20"/> &nbsp; **Intelligent Automation** <br/>
+<img src="https://img.icons8.com/color/48/system-task.png" width="20"/> &nbsp; **Scalable Architecture** <br/>
+<img src="https://img.icons8.com/color/48/workflow.png" width="20"/> &nbsp; **Efficient Workflows** <br/>
+<img src="https://img.icons8.com/color/48/brain--v1.png" width="20"/> &nbsp; **Complex Problem Solving**
 
-<img src="https://img.icons8.com/3d-fluency/94/settings.png" width="35"/> Building intelligent automation systems
+    </td>
+    <td width="45%" valign="top">
 
-<img src="https://img.icons8.com/3d-fluency/94/module.png" width="35"/> Designing scalable architectures
-
-<img src="https://img.icons8.com/3d-fluency/94/workflow.png" width="35"/> Creating efficient workflows
-
-<img src="https://img.icons8.com/3d-fluency/94/idea.png" width="35"/> Solving complex technical challenges
-
-</td>
-<td width="50%" valign="top">
-
-### 🎯 Current Focus
-
-<img src="https://img.icons8.com/3d-fluency/94/laptop.png" width="50"/> System Design & Automation
-
+### 🚀 Focus & Work
+<img src="https://img.icons8.com/dusk/64/code.png" width="20"/> &nbsp; **System Design & Automation**
 <br/>
-
-### 🚀 What I'm Working On
-
-Building intelligent automation tools that streamline workflows and boost productivity
+<em>Building tools that streamline workflows and boost productivity.</em>
 
 <br/>
 
 ### 📚 Learning Journey
-
-<img src="https://img.icons8.com/3d-fluency/50/server.png" width="25"/> Microservices Architecture
-
-<img src="https://img.icons8.com/3d-fluency/50/cloud.png" width="25"/> Cloud Infrastructure (AWS, GCP)
-
-<img src="https://img.icons8.com/3d-fluency/50/infinity.png" width="25"/> Advanced DevOps Practices
+<img src="https://img.shields.io/badge/Architecture-Microservices-blue?style=flat-square&logo=microgen&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloud-AWS_&_GCP-orange?style=flat-square&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/DevOps-Advanced_Practices-black?style=flat-square&logo=githubactions&logoColor=white" />
 
 <br/>
 
 ### 💬 Ask Me About
+<img src="https://img.shields.io/badge/Web-Full_Stack-violet?style=flat-square&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Design-System_Architecture-red?style=flat-square&logo=diagramsdotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/Scripting-Automation-green?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/API-REST_&_GraphQL-blue?style=flat-square&logo=postman&logoColor=white" />
 
-<img src="https://img.icons8.com/3d-fluency/50/domain.png" width="25"/> Web Development (Full Stack)
-
-<img src="https://img.icons8.com/3d-fluency/50/blueprint.png" width="25"/> System Design & Architecture
-
-<img src="https://img.icons8.com/3d-fluency/50/bot.png" width="25"/> Automation & Scripting
-
-<img src="https://img.icons8.com/3d-fluency/50/api.png" width="25"/> RESTful & GraphQL APIs
-
-</td>
-</tr>
+    </td>
+  </tr>
 </table>
+
+</div>
 
 </div>
 
