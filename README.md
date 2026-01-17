@@ -8,76 +8,34 @@
 
 <br/>
 
-## 🧑‍💻 About Me
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24px"/> About Me
 
-<div align="center">
-  
-<table border="0">
-  <tr>
-    <td width="50%" valign="top">
-      
-### 👨‍🎓 Who I Am
-
-<img src="https://img.icons8.com/3d-fluency/94/code.png" width="50" align="right"/>
-
-I'm a **Full Stack Software Engineer** based in **Lucknow, India**, passionate about building robust, scalable systems that solve real-world problems. I specialize in creating automation tools and designing architectures that stand the test of time.
-
-<br/>
-
-### 🎯 What Drives Me
-
-<img src="https://img.icons8.com/3d-fluency/94/settings.png" width="35"/> Building intelligent automation systems
-
-<img src="https://img.icons8.com/3d-fluency/94/module.png" width="35"/> Designing scalable architectures
-
-<img src="https://img.icons8.com/3d-fluency/94/workflow.png" width="35"/> Creating efficient workflows
-
-<img src="https://img.icons8.com/3d-fluency/94/idea.png" width="35"/> Solving complex technical challenges
-
-</td>
-<td width="50%" valign="top">
-
-### 🎯 Current Focus
-
-<img src="https://img.icons8.com/3d-fluency/94/laptop.png" width="50"/> System Design & Automation
+```javascript
+const pratyush = {
+    role: "Full Stack Software Engineer",
+    location: "Lucknow, India",
+    passions: [
+        "Building automation systems",
+        "Designing scalable architectures",
+        "Creating efficient workflows",
+        "Solving complex problems"
+    ],
+    currentFocus: "System Design & Automation",
+    workingOn: "Building intelligent automation tools",
+    learning: ["Microservices", "Cloud Architecture", "DevOps"],
+    askMeAbout: ["Web Development", "System Design", "Automation", "APIs"]
+};
+```
 
 <br/>
 
-### 🚀 What I'm Working On
-
-Building intelligent automation tools that streamline workflows and boost productivity
-
-<br/>
-
-### 📚 Learning Journey
-
-<img src="https://img.icons8.com/3d-fluency/50/server.png" width="25"/> Microservices Architecture
-
-<img src="https://img.icons8.com/3d-fluency/50/cloud.png" width="25"/> Cloud Infrastructure (AWS, GCP)
-
-<img src="https://img.icons8.com/3d-fluency/50/infinity.png" width="25"/> Advanced DevOps Practices
-
-<br/>
-
-### 💬 Ask Me About
-
-<img src="https://img.icons8.com/3d-fluency/50/domain.png" width="25"/> Web Development (Full Stack)
-
-<img src="https://img.icons8.com/3d-fluency/50/blueprint.png" width="25"/> System Design & Architecture
-
-<img src="https://img.icons8.com/3d-fluency/50/bot.png" width="25"/> Automation & Scripting
-
-<img src="https://img.icons8.com/3d-fluency/50/api.png" width="25"/> RESTful & GraphQL APIs
-
-</td>
-</tr>
-</table>
+</div>
 
 </div>
 
 <br/>
 
-## <img src="https://img.icons8.com/3d-fluency/94/rocket.png" width="35"/> Tech Stack
+## <img src="https://cdn-icons-png.freepik.com/512/13007/13007410.png?ga=GA1.1.375737319.1725045170" width="35"/> Tech Stack
 
 ### Languages
 <p align="left">
@@ -111,7 +69,7 @@ Building intelligent automation tools that streamline workflows and boost produc
 
 <br/>
 
-## <img src="https://img.icons8.com/3d-fluency/94/bar-chart.png" width="35"/> GitHub Analytics
+## <img src="https://cdn-icons-png.freepik.com/512/646/646249.png?ga=GA1.1.375737319.1725045170" width="35"/> GitHub Analytics
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kinetic-sudo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3DAFF7&icon_color=3DAFF7&text_color=FFFFFF"/>
@@ -128,7 +86,7 @@ Building intelligent automation tools that streamline workflows and boost produc
 
 <br/>
 
-## <img src="https://img.icons8.com/3d-fluency/94/star.png" width="35"/> Featured Projects
+## <img src="https://cdn-icons-png.freepik.com/512/17298/17298703.png?ga=GA1.1.375737319.1725045170" width="35"/> Featured Projects
 
 <div align="center">
 
@@ -136,9 +94,7 @@ Building intelligent automation tools that streamline workflows and boost produc
   <tr>
     <td width="50%" align="center">
       <br/>
-      <a href="https://kinetic-three-mu.vercel.app/" target="_blank">
-        <img src="https://vercel.com/api/v0/deployments/dpl_GFL8M8cNpjkrRiiR3TU2iH7zYH59/favicon?project=kinetic&readyState=READY&teamId=team_NfvjqLrNBrVemJBh0c8YyK80&dpl=dpl_97xRpi2juduZFwmX5j2aioSxMtVe" width="60"/>
-      </a>
+      <img src="https://vercel.com/api/v0/deployments/dpl_GFL8M8cNpjkrRiiR3TU2iH7zYH59/favicon?project=kinetic&readyState=READY&teamId=team_NfvjqLrNBrVemJBh0c8YyK80&dpl=dpl_97xRpi2juduZFwmX5j2aioSxMtVe" width="60"/>
       <h3>Kinetic</h3>
       <p><em>Modern web application with cutting-edge features</em></p>
       <br/>
@@ -155,9 +111,7 @@ Building intelligent automation tools that streamline workflows and boost produc
     </td>
     <td width="50%" align="center">
       <br/>
-      <a href="https://brainwave-nu-lac.vercel.app/" target="_blank">
-        <img src="https://vercel.com/api/v0/deployments/dpl_8dT3n1dZWAna65GqBbVwQnrnH9xu/favicon?project=brainwave&readyState=READY&teamId=team_NfvjqLrNBrVemJBh0c8YyK80&dpl=dpl_97xRpi2juduZFwmX5j2aioSxMtVe" width="60"/>
-      </a>
+      <img src="https://vercel.com/api/v0/deployments/dpl_8dT3n1dZWAna65GqBbVwQnrnH9xu/favicon?project=brainwave&readyState=READY&teamId=team_NfvjqLrNBrVemJBh0c8YyK80&dpl=dpl_97xRpi2juduZFwmX5j2aioSxMtVe" width="60"/>
       <h3>Brainwave</h3>
       <p><em>AI-powered intelligent platform</em></p>
       <br/>
@@ -176,9 +130,7 @@ Building intelligent automation tools that streamline workflows and boost produc
   <tr>
     <td width="50%" align="center">
       <br/>
-      <a href="https://apple-website-mocha-nine.vercel.app/" target="_blank">
-        <img src="https://vercel.com/api/v0/deployments/dpl_8nGxTNaAz87VjbBCnZziTfnWw8VH/favicon?project=apple-website&readyState=READY&teamId=team_NfvjqLrNBrVemJBh0c8YyK80&dpl=dpl_97xRpi2juduZFwmX5j2aioSxMtVe" width="60"/>
-      </a>
+      <img src="https://vercel.com/api/v0/deployments/dpl_8nGxTNaAz87VjbBCnZziTfnWw8VH/favicon?project=apple-website&readyState=READY&teamId=team_NfvjqLrNBrVemJBh0c8YyK80&dpl=dpl_97xRpi2juduZFwmX5j2aioSxMtVe" width="60"/>
       <h3>Apple Website Clone</h3>
       <p><em>Pixel-perfect recreation with 3D animations</em></p>
       <br/>
@@ -195,9 +147,7 @@ Building intelligent automation tools that streamline workflows and boost produc
     </td>
     <td width="50%" align="center">
       <br/>
-      <a href="https://gta-vi-tau.vercel.app/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Rockstar_logo_for_tweets.png/1920px-Rockstar_logo_for_tweets.png" width="60"/>
-      </a>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Rockstar_logo_for_tweets.png/1920px-Rockstar_logo_for_tweets.png" width="60"/>
       <h3>GTA-VI Landing</h3>
       <p><em>Immersive game landing page experience</em></p>
       <br/>
