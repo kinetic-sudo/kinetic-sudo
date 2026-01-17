@@ -8,24 +8,19 @@
 
 <br/>
 
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24px"/> About Me
+## <img src="https://img.icons8.com/3d-fluency/94/handshake.png" width="35"/> Connect With Me
 
-```javascript
-const pratyush = {
-    role: "Full Stack Software Engineer",
-    location: "Lucknow, India",
-    passions: [
-        "Building automation systems",
-        "Designing scalable architectures",
-        "Creating efficient workflows",
-        "Solving complex problems"
-    ],
-    currentFocus: "System Design & Automation",
-    workingOn: "Building intelligent automation tools",
-    learning: ["Microservices", "Cloud Architecture", "DevOps"],
-    askMeAbout: ["Web Development", "System Design", "Automation", "APIs"]
-};
-```
+<p align="center">
+  <a href="http://portfolio-liard-six-15.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:pratyushbhargava6@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/pratyush-bhargava-588352167" target="_blank">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
 <br/>
 
@@ -69,22 +64,7 @@ const pratyush = {
 
 <br/>
 
-## <img src="https://cdn-icons-png.freepik.com/512/646/646249.png?ga=GA1.1.375737319.1725045170" width="35"/> GitHub Analytics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kinetic-sudo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3DAFF7&icon_color=3DAFF7&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinetic-sudo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3DAFF7&text_color=FFFFFF&langs_count=8"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kinetic-sudo&theme=tokyonight&hide_border=true&background=0D1117&stroke=3DAFF7&ring=3DAFF7&fire=FF6D00&currStreakLabel=3DAFF7" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kinetic-sudo&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3DAFF7&line=3DAFF7&point=FFFFFF" alt="Contribution Graph"/>
-</p>
-
-<br/>
 
 
 ## <img src="https://cdn-icons-png.freepik.com/512/17298/17298703.png?ga=GA1.1.375737319.1725045170" width="35"/> Featured Projects
@@ -169,25 +149,6 @@ const pratyush = {
 <br/>
 <br/>
 
-## <img src="https://img.icons8.com/3d-fluency/94/hammer.png" width="35"/> What I Do
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-
-<img src="https://img.icons8.com/3d-fluency/50/blueprint.png" width="25"/> **System Architecture** - Designing scalable and maintainable systems
-
-<img src="https://img.icons8.com/3d-fluency/50/bot.png" width="25"/> **Automation** - Building tools that eliminate repetitive tasks
-
-<img src="https://img.icons8.com/3d-fluency/50/code.png" width="25"/> **Full Stack Development** - End-to-end application development
-
-<img src="https://img.icons8.com/3d-fluency/50/speed.png" width="25"/> **Performance Optimization** - Making systems faster and more efficient
-
-<img src="https://img.icons8.com/3d-fluency/50/infinity.png" width="25"/> **DevOps** - Implementing CI/CD pipelines and cloud infrastructure
-
-<img src="https://img.icons8.com/3d-fluency/50/idea.png" width="25"/> **Problem Solving** - Turning complex challenges into elegant solutions
-
-<br clear="right"/>
-
-<br/>
 
 ## <img src="https://img.icons8.com/3d-fluency/94/handshake.png" width="35"/> Connect With Me
 
